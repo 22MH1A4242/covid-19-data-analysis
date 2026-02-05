@@ -67,8 +67,5 @@ This project analyzes global COVID-19 data using Python and Pandas.
 ## Author
 Anjali Devi Medapati
 
-"C:\Users\Anjal\OneDrive\Pictures\Screenshots\Screenshot 2026-02-05 124346.png"
-"C:\Users\Anjal\OneDrive\Pictures\Screenshots\Screenshot 2026-02-05 124336.png"
-"C:\Users\Anjal\OneDrive\Pictures\Screenshots\Screenshot 2026-02-05 124318.png"
-"C:\Users\Anjal\OneDrive\Pictures\Screenshots\Screenshot 2026-02-05 124302.png"
-"C:\Users\Anjal\OneDrive\Pictures\Screenshots\Screenshot 2026-02-05 124250.png"
+<img width="1920" height="1080" alt="Screenshot 2026-02-05 124346" src="https://github.com/user-attachments/assets/a84b5865-2315-4692-9722-8e31efcd71a5" />
+
